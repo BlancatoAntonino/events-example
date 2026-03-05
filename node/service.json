@@ -7,8 +7,10 @@
   "workers": 4,
   "events": {
     "example": {
-      "sender": "vtex.events-example",
-      "keys": ["send-event"]
+      "sender": "replyqa1.events-example",
+      "keys": [
+        "send-event"
+      ]
     }
   },
   "routes": {
